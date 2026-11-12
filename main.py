@@ -35,7 +35,7 @@ def work_mode():
                 kb.send("ctrl + shift + a")
                 time.sleep(0.15)
                 kb.write(chromePage)
-                time.sleep(0.15)
+                time.sleep(0.2)
                 kb.send("enter")
 
 
