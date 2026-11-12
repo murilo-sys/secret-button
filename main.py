@@ -45,4 +45,4 @@ def mouse_check():
 
 
 ms.on_right_click(mouse_check)
-kb.wait("esc")
+kb.wait("pgup")
